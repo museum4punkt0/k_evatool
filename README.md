@@ -4,10 +4,26 @@
 The "k:evatool" is designed as an application for the evaluation of diverse, digital offers and mediation formats. It is versatile and can be adapted to the format to be evaluated. An interface makes it possible to integrate the surveys into the museums' existing applications. Surveys can be easily created, tested and evaluated in a content management system. For the respondents, the surveys are more varied and entertaining.
 
 ### Funding
-This prototype is part of the project museum4punkt0 - Digital Strategies for the Museum of the Future, sub-project ???. Further information: www.museum4punkt0.
-de/en/.
+This project is part of the project museum4punkt0 - Digital Strategies for the Museum of the Future, sub-project k:eva. Further information: https://www.museum4punkt0.de.
 
 The project museum4punkt0 is funded by the Federal Government Commissioner for Culture and the Media in accordance with a resolution issued by the German Bundestag (Parliament of the Federal Republic of Germany).
+
+### Skills required to implement
+We recommend personnel with a good skill set in server administration and installation of .
+Further development of the different parts of the system requires good skill in Laravel and VueJs.
+
+### Recommended Server Setup 
+#### Backend (Laravel)
+- Ubuntu 20.04
+- Apache 2.4.x
+- PHP 8.0  (Several additional php modules are needed. Please see https://laravel.com/docs/8.x/deployment)
+- MySQL 8.0
+- Composer 2.x
+
+#### Frontend (VueJS)
+- Ubuntu 20.04
+- Apache 2.4.x
+- NodeJS 14.x
 
 ### Installation
 The full installation of the k:evatool consists of four repositories
