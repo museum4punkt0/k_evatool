@@ -2,6 +2,7 @@
 
 ### Description
 The "k:evatool" is designed as an application for the evaluation of diverse, digital offers and mediation formats. It is versatile and can be adapted to the format to be evaluated. An interface makes it possible to integrate the surveys into the museums' existing applications. Surveys can be easily created, tested and evaluated in a content management system. For the respondents, the surveys are more varied and entertaining.
+<br>It was developed as part of the project "Labor digital: Vermittlungsformate in und außerhalb der Museen"
 
 ### Funding
 This project is part of the project museum4punkt0 - Digital Strategies for the Museum of the Future, sub-project k:eva. Further information: https://www.museum4punkt0.de.
