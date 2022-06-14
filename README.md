@@ -44,6 +44,7 @@ https://github.com/museum4punkt0/k_evatool_laravel_container_app
 ####  k_evatool_laravel_package
 This Laravel package is located within the container app and holds all components that are needed to provide the survey related API. Please see the package 
 readme for installation instructions.
+CAUTION: The package must be cloned into **/packages/twoavy** within the **k_evatool_laravel_container_app**. Otherwise installation won't complete.
 https://github.com/museum4punkt0/k_evatool_laravel_package
 
 #### k_evatool_survey_player
